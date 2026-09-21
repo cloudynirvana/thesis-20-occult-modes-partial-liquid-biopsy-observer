@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Hybrid occult mode switches under sparse delayed liquid-biopsy-style partial observers"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  Which hybrid occult mode switches remain practically identifiable when the
+  observation map is a sparse, delayed liquid-biopsy-style partial observer
+  rather than a full state schedule? On a three-coordinate toy that inherits
+  the mode names of Thesis #4, a full state schedule separates proliferative
+  continuation, quiescence, angiogenic pause, and immune-held latency. A dense
+  burden channel still separates them when the two pauses have different
+  burden balances. The sparse delayed scalar keeps those separations while a
+  burden gap remains, and it loses the angiogenic-versus-immune contrast when
+  the two pauses are given the same burden law. That contrast is then carried
+  only by the cycling and vascular coordinates, which the scalar does not see.
+  Switch time in an arm that never leaves the proliferative field has Fisher
+  information zero on every map. The scalar is not a ctDNA assay. Not a
+  medical device. No cure.
+keywords:
+  - hybrid dynamical systems
+  - occult residual disease
+  - practical identifiability
+  - partial observation
+  - mode discrimination
+  - liquid biopsy
+  - toy model
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-20-occult-modes-partial-liquid-biopsy-observer"
+repository-code: "https://github.com/cloudynirvana/thesis-20-occult-modes-partial-liquid-biopsy-observer"
+preferred-citation:
+  type: thesis
+  title: "Hybrid occult mode switches under sparse delayed liquid-biopsy-style partial observers"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-20-occult-modes-partial-liquid-biopsy-observer"
+  notes: "Thesis #20. Computational research. Depends on Thesis #4 and Thesis #9. Toy observer, not a clinical result. No document DOI."
